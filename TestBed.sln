@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 9 - Recursion", "Day 9 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 10 - Binary numbers", "Day 10 - Binary numbers\Day 10 - Binary numbers.csproj", "{589ABC60-D7D7-4918-B90B-07C4E85B1DCC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day11- 2d Arrays", "Day11- 2d Arrays\Day11- 2d Arrays.csproj", "{D3241A27-57C2-4DDD-9A4F-A6E29B9598C4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{589ABC60-D7D7-4918-B90B-07C4E85B1DCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{589ABC60-D7D7-4918-B90B-07C4E85B1DCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{589ABC60-D7D7-4918-B90B-07C4E85B1DCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3241A27-57C2-4DDD-9A4F-A6E29B9598C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3241A27-57C2-4DDD-9A4F-A6E29B9598C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3241A27-57C2-4DDD-9A4F-A6E29B9598C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3241A27-57C2-4DDD-9A4F-A6E29B9598C4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
