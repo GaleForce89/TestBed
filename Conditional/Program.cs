@@ -1,36 +1,45 @@
-﻿/*
- * Objective 
-In this challenge, we're getting started with conditional statements. Check out the Tutorial tab for learning materials and an instructional video!
-
-Task 
-Given an integer, , perform the following conditional actions:
-
-If n is odd, print Weird
-If n is even and in the inclusive range of 2 to 5, print Not Weird
-If n is even and in the inclusive range of 6 to 20, print Weird
-If n is even and greater than 20, print Not Weird
-Complete the stub code provided in your editor to print whether or not n is weird.
-
-Input Format
-
-A single line containing a positive integer, n.
-
-Constraints
-1 <= n <= 100
-
-Output Format
-
-Print Weird if the number is weird; otherwise, print Not Weird.
-*/
+﻿using System.CodeDom.Compiler;
+using System.Collections.Generic;
+using System.Collections;
+using System.ComponentModel;
+using System.Diagnostics.CodeAnalysis;
+using System.Globalization;
+using System.IO;
+using System.Linq;
+using System.Reflection;
+using System.Runtime.Serialization;
+using System.Text.RegularExpressions;
+using System.Text;
 using System;
 
-namespace Conditional
+class Solution
 {
-    class Program
+
+
+
+    static void Main(string[] args)
     {
-        static void Main(string[] args)
+        int N = Convert.ToInt32(Console.ReadLine());
+
+
+        if (N % 2 == 0)
         {
-            Console.WriteLine("Hello World!");
+            if (N >= 2 && N <= 5)
+            {
+                System.Console.Write("Not Weird");
+            }
+            else if (N > 20)
+            {
+                System.Console.WriteLine("Not Weird");
+            }
+            else
+            {
+                System.Console.WriteLine("Weird");
+            }
+        }
+        else
+        {
+            System.Console.WriteLine("Weird");
         }
     }
 }
