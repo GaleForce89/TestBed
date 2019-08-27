@@ -26,7 +26,7 @@ class Solution
             arr[i] = Array.ConvertAll(tmp, int.Parse);
         }
 
-        int max = -9 * 7;
+        int max = -9 * 9;
         for (int i = 0; i < 6; i++)
         {
             for (int j = 0; j < 6; j++)

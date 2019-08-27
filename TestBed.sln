@@ -13,19 +13,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Todo", "Todo\Todo.csproj", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Class vs Instance", "Class vs Instance\Class vs Instance.csproj", "{ADB81E33-1990-4F9E-8078-2F8A907B6208}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loops", "Loops\Loops.csproj", "{F676130A-C443-4E03-8E24-3DE194B72CC2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Loops", "Loops\Loops.csproj", "{F676130A-C443-4E03-8E24-3DE194B72CC2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 6 - Review", "Day 6 - Review\Day 6 - Review.csproj", "{45E63465-112C-4ACD-BEBA-483129FC1889}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day 6 - Review", "Day 6 - Review\Day 6 - Review.csproj", "{45E63465-112C-4ACD-BEBA-483129FC1889}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day7 - Arrays", "Day7 - Arrays\Day7 - Arrays.csproj", "{440E5EF9-8D66-415F-842E-3BDA17B12D40}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day7 - Arrays", "Day7 - Arrays\Day7 - Arrays.csproj", "{440E5EF9-8D66-415F-842E-3BDA17B12D40}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 8 - Dictionaries and Maps", "Day 8 - Dictionaries and Maps\Day 8 - Dictionaries and Maps.csproj", "{3F78FE06-776C-45DC-ABAC-5A3969677043}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day 8 - Dictionaries and Maps", "Day 8 - Dictionaries and Maps\Day 8 - Dictionaries and Maps.csproj", "{3F78FE06-776C-45DC-ABAC-5A3969677043}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 9 - Recursion", "Day 9 - Recursion\Day 9 - Recursion.csproj", "{3D246013-82D6-4D7E-8592-BDDE8C903A26}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day 9 - Recursion", "Day 9 - Recursion\Day 9 - Recursion.csproj", "{3D246013-82D6-4D7E-8592-BDDE8C903A26}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 10 - Binary numbers", "Day 10 - Binary numbers\Day 10 - Binary numbers.csproj", "{589ABC60-D7D7-4918-B90B-07C4E85B1DCC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day 10 - Binary numbers", "Day 10 - Binary numbers\Day 10 - Binary numbers.csproj", "{589ABC60-D7D7-4918-B90B-07C4E85B1DCC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day11- 2d Arrays", "Day11- 2d Arrays\Day11- 2d Arrays.csproj", "{D3241A27-57C2-4DDD-9A4F-A6E29B9598C4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day11- 2d Arrays", "Day11- 2d Arrays\Day11- 2d Arrays.csproj", "{D3241A27-57C2-4DDD-9A4F-A6E29B9598C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 12 - Inheritance", "Day 12 - Inheritance\Day 12 - Inheritance.csproj", "{9E020A72-D6D7-4CBD-9602-8605B5E87DCB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 13 - Abstract Classes", "Day 13 - Abstract Classes\Day 13 - Abstract Classes.csproj", "{E15D903F-DC29-47D9-AE4C-CDBE932D80C6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +85,14 @@ Global
 		{D3241A27-57C2-4DDD-9A4F-A6E29B9598C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D3241A27-57C2-4DDD-9A4F-A6E29B9598C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D3241A27-57C2-4DDD-9A4F-A6E29B9598C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E020A72-D6D7-4CBD-9602-8605B5E87DCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E020A72-D6D7-4CBD-9602-8605B5E87DCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E020A72-D6D7-4CBD-9602-8605B5E87DCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E020A72-D6D7-4CBD-9602-8605B5E87DCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E15D903F-DC29-47D9-AE4C-CDBE932D80C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E15D903F-DC29-47D9-AE4C-CDBE932D80C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E15D903F-DC29-47D9-AE4C-CDBE932D80C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E15D903F-DC29-47D9-AE4C-CDBE932D80C6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
