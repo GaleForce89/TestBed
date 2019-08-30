@@ -31,25 +31,27 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day 12 - Inheritance", "Day
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day 13 - Abstract Classes", "Day 13 - Abstract Classes\Day 13 - Abstract Classes.csproj", "{E15D903F-DC29-47D9-AE4C-CDBE932D80C6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 14 - Scope", "Day 14 - Scope\Day 14 - Scope.csproj", "{FD3D045B-7949-4387-9CAE-E8DA678FCA29}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day 14 - Scope", "Day 14 - Scope\Day 14 - Scope.csproj", "{FD3D045B-7949-4387-9CAE-E8DA678FCA29}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 15 - LinkedList", "Day 15 - LinkedList\Day 15 - LinkedList.csproj", "{861D4B61-292E-47E2-B3C0-B5E0A1A2F0D6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day 15 - LinkedList", "Day 15 - LinkedList\Day 15 - LinkedList.csproj", "{861D4B61-292E-47E2-B3C0-B5E0A1A2F0D6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 16 - Exceptions - String to Integer", "Day 16 - Exceptions - String to Integer\Day 16 - Exceptions - String to Integer.csproj", "{842C05AE-EE6F-419E-A13C-42B622EB97A0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day 16 - Exceptions - String to Integer", "Day 16 - Exceptions - String to Integer\Day 16 - Exceptions - String to Integer.csproj", "{842C05AE-EE6F-419E-A13C-42B622EB97A0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 17 - More Exceptions", "Day 17 - More Exceptions\Day 17 - More Exceptions.csproj", "{83532A7E-DE3B-4263-9C1F-87B21A4D8A0A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day 17 - More Exceptions", "Day 17 - More Exceptions\Day 17 - More Exceptions.csproj", "{83532A7E-DE3B-4263-9C1F-87B21A4D8A0A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 18 - Stacks and Queues", "Day 18 - Stacks and Queues\Day 18 - Stacks and Queues.csproj", "{1E8F35A9-2EE2-4C17-80AB-90FD1D6C8D10}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day 18 - Stacks and Queues", "Day 18 - Stacks and Queues\Day 18 - Stacks and Queues.csproj", "{1E8F35A9-2EE2-4C17-80AB-90FD1D6C8D10}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 19 - Interfaces", "Day 19 - Interfaces\Day 19 - Interfaces.csproj", "{35354187-012D-47C8-8BC9-1A080B2BA403}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day 19 - Interfaces", "Day 19 - Interfaces\Day 19 - Interfaces.csproj", "{35354187-012D-47C8-8BC9-1A080B2BA403}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 20 - Sorting", "Day 20 - Sorting\Day 20 - Sorting.csproj", "{C9E8C740-D879-417E-B13E-52E08D2430E4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day 20 - Sorting", "Day 20 - Sorting\Day 20 - Sorting.csproj", "{C9E8C740-D879-417E-B13E-52E08D2430E4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 21 - Generics", "Day 21 - Generics\Day 21 - Generics.csproj", "{BA292925-EBC6-40E1-9F42-639E770BD569}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day 21 - Generics", "Day 21 - Generics\Day 21 - Generics.csproj", "{BA292925-EBC6-40E1-9F42-639E770BD569}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 22 - Binary Search Trees", "Day 22 - Binary Search Trees\Day 22 - Binary Search Trees.csproj", "{5C8DC4AB-BB6D-4331-B295-9FE11BDEAB02}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day 22 - Binary Search Trees", "Day 22 - Binary Search Trees\Day 22 - Binary Search Trees.csproj", "{5C8DC4AB-BB6D-4331-B295-9FE11BDEAB02}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 23 - BST Level-Order Traversal", "Day 23 - BST Level-Order Traversal\Day 23 - BST Level-Order Traversal.csproj", "{0DD49044-65DA-40D8-9830-686D7620D213}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day 23 - BST Level-Order Traversal", "Day 23 - BST Level-Order Traversal\Day 23 - BST Level-Order Traversal.csproj", "{0DD49044-65DA-40D8-9830-686D7620D213}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 24 - More Linked List", "Day 24 - More Linked List\Day 24 - More Linked List.csproj", "{A4013A71-2D06-4640-A2B9-5134A8B98022}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -153,6 +155,10 @@ Global
 		{0DD49044-65DA-40D8-9830-686D7620D213}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0DD49044-65DA-40D8-9830-686D7620D213}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0DD49044-65DA-40D8-9830-686D7620D213}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4013A71-2D06-4640-A2B9-5134A8B98022}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4013A71-2D06-4640-A2B9-5134A8B98022}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4013A71-2D06-4640-A2B9-5134A8B98022}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4013A71-2D06-4640-A2B9-5134A8B98022}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
